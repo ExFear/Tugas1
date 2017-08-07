@@ -1,0 +1,27 @@
+a{
+ text-decoration:none;
+}
+.wrapper{
+ max-width:940px;
+ margin:0 auto;
+ padding:0.5%;
+}
+li{
+ list-style: none;
+}
+nav a{
+ color: #fff;
+}
+header{
+ background: #1e2d3c;
+}
+nav{
+ background: #111921;
+}
+nav a.selected, nav a:hover{
+ color: #43acd4;
+}
+body{
+ background-color: #fff;
+ color: #999;
+}

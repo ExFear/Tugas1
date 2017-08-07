@@ -1,0 +1,50 @@
+a{
+ text-decoration:none;
+}
+.wrapper{
+ max-width:940px;
+ margin:0 auto;
+ padding:0.5%;
+}
+li{
+ list-style: none;
+}
+/* --- General Styling --- */
+a {
+ text-decoration: none;
+}
+#wrapper{
+ max-width: 940px;
+ margin: 0 auto;
+ padding: 0 5%;
+}
+li{
+ list-style: none;
+}
+/* Styling pada Elemen Header */
+header{
+ background: #1e2d3c;
+}
+header a{
+ text-align: center;
+ margin: 0;
+}
+#logo{
+ width: 50px;
+ text-align: center;
+}
+nav{
+ background: #111921;
+}
+nav a{
+ color: #fff;
+}
+nav a.selected, nav a:hover{
+ color: #43acd4;
+}
+/* Styling Elemen Body */
+body{
+ background-color: #fff;
+ color: #999;
+ font-family: 'Sedgwick Ave Display', cursive;
+}
