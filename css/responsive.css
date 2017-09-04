@@ -36,6 +36,32 @@ nav {
  margin-bottom: 20px;
  } 
 }
+@media screen and (max-width: 1020px){
+nav a{
+	margin: 0;
+}
+}
+@media screen and (max-width: 754px){
+nav ul{
+	margin: 0;
+}
+}
+@media screen and (max-width: 664px){
+nav{
+	margin-right: 0;
+	width: 50%;
+}
+}
+@media screen and (max-width: 659px){
+nav{
+	width: 100%;
+}	
+}
+@media screen and (max-width: 461px){
+nav li{
+	padding: 0;	
+	}
+}
 /* TWO COLUMN LAYOUT */
  #primary{
  width: 50%;
